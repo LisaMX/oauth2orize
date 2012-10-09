@@ -8,7 +8,7 @@ protocol.
 
 ## Installation
 
-    $ npm install oauth2orize
+    $ npm install oauth2orize ,klljhlklkjlkj
 
 ## Usage
 
